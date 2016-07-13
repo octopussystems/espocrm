@@ -61,5 +61,5 @@ Json files will be created in build directory grouped by folders.
 
 ### License
 
-EspoCRM is published under the GNU GPLv3 [license](https://raw.githubusercontent.com/espocrm/espocrm/master/LICENSE.txt).
+OctoCRM is published under the GNU GPLv3 [license](https://raw.githubusercontent.com/espocrm/espocrm/master/LICENSE.txt).
 
